@@ -2,6 +2,8 @@
 
 
 SOBRE STRINGS
+
+
 append(): Adiciona um elemento ao final da lista.
 
 insert(): Insere um elemento em uma posição específica da lista.
